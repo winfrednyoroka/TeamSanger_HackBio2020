@@ -12,36 +12,18 @@ For instance: I used **Python 3.7** to generate my script_wgatua.py. So to execu
 All members of team Sanger are required to add their names here
 1. Winfred Gatua
 2. Khatendra Reang
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3. Maruf Ahmed
 
 
 # Software used
 
 Below here just state the software you used to generate the script. If there are dependencies please note them down here
-
-
-
-
-
+|      Name     |  Language  | Dependencies |
+|:-------------:|:----------:|:------------:|
+| Winfred Gatua | Python 3.7 |  Python 3.7  |
+|  Maruf Ahmed  |      R     |       R      |
+|               |            |              |
 
 # Workflow
-To be edited
- master
+![Workflow](https://github.com/maruf-ahmed-bhuiyan/TeamSanger_HackBio2020/blob/master/Flowchart.png)
+
