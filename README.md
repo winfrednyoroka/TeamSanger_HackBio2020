@@ -31,4 +31,3 @@ Below here just state the software you used to generate the script. If there are
 
 # Workflow
 ![Workflow](https://github.com/winfrednyoroka/TeamSanger_HackBio2020/blob/master/Flowchart.png)
-
