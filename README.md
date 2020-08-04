@@ -20,7 +20,7 @@ All members of team Sanger are required to add their names here
 Below here just state the software you used to generate the script. If there are dependencies please note them down here
 |      Name     |  Language  | Dependencies |
 |:-------------:|:----------:|:------------:|
-| Winfred Gatua | Python 3.7 |  Python 3.7  |
+| Winfred Gatua | Javascript |  [nodej link](NodeJs Runtime Environment Download) |
 |  Maruf Ahmed  |      R     |       R      |
 |               |            |              |
 
