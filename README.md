@@ -23,7 +23,7 @@ Below here just state the software you used to generate the script. If there are
 |      Name     |  Language  | Dependencies |
 |:-------------:|:----------:|:------------:|
 | Winfred Gatua | Javascript |  NodeJs Runtime Environment Download |
-|  Maruf Ahmed  |      R     |       R      |
+|  Maruf Ahmed  |      Perl     |       Perl installlation (v5.30.3)(https://www.perl.org/get.html)      |
 | Akurut Eva    |Julia       |  Julia installation      |
 | Olayemi Rotimi| Python 3.8
 |            |               | 
