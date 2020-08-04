@@ -1,1 +1,1 @@
-echo "Adepoju_Ayodeji, adepojueayodeji@gmail.com, Bash, Data_Analytics, @Ayodeji"
+echo "Adepoju_Ayodeji, adepojueayodeji@gmail.com, Python, Data_Analytics, @Ayodeji"
