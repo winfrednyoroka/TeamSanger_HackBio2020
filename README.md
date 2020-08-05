@@ -39,6 +39,7 @@ Use the table below to key in your name and programming language used to generat
 |  Ibiyinka Daramola        |  Python 3.8             | 
 | Khatendra Reang|        Bash |
 |Lawrence Edemharia|Python|Code writer version 4.1 Build 39
+|Ankita Kumari | bash
   
 # Workflow
 ![Workflow](https://github.com/winfrednyoroka/TeamSanger_HackBio2020/blob/master/Flowchart.png)
