@@ -27,7 +27,7 @@ Use the table below to key in your name and programming language used to generat
 
 |      Name     |  Language  | Dependencies |
 |:-------------:|:----------:|:------------:|
-| Winfred Gatua | Javascript |  NodeJs Runtime Environment Download |
+| Winfred Gatua | Javascript,bash |  NodeJs Runtime Environment Download,[nodelink](https://nodejs.org/en/download/) |
 |  Maruf Ahmed  |      R     |       R      |
 | Akurut Eva    |Julia       |  Julia installation  |
 |Adepoju Ayodeji| Python 3.7 | Python 3.7  
