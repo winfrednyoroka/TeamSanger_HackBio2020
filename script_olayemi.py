@@ -1,9 +1,9 @@
-#!bin/python
+#!bin/python3
 #this is a python file of hello world
 
-name= "olayemi_rotimi"
+name= "Olayemi Rotimi"
 email="olayemirotimi3@gmail.com"
 language="python"
 biostack="genomics"
 slack="@olayemi"
-print("olayemi rotimi, olayemirotimi3@gmail.com, python, genomics, @olayemi")
+print("{}, {}, {}, {}, {}" .format(name , email , language , biostack ,slack))
