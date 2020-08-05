@@ -1,7 +1,8 @@
 name <- "Oguntuase Ayodele"
 email <- "ayodeleemmanuel806gmail.com"
+language <- "Rscript"
 biostack <- "Genomics"
 username <- "@Ayodele"
-language <- "R"
+print(paste("name:", name, "email:", email, "language:", language, "biostack:", biostack, "username:", username, Sep="ln"))
 
-print(paste("name:", name, "email:", email, "biostack:", biostack, "username:", username, "language:", language, Sep="ln"))
+chmod+x"script_Ayodele.*
