@@ -35,6 +35,8 @@ Below here just state the software you used to generate the script. If there are
 
 # Help
 To execute the scripts from this repo we are providing a general script that contains information on cloning the repository. Using *git clone* followed by the link to the Repo allows you to clone. Upon cloning then it provides command to change directory from the current repo to the Team_Sanger Repository. To execute the scripts then we need to add rights to execute which is achieved by *chmod +x script*. Then we have provided a for loop that heps loop through each and every script and execute as per the commands within the loop. 
+
 **NB**
+
 There is need to install all the softwares listed above  for the scripts to be executed. 
 In case you bump into an error of **bad interpreter** when executing the scripts. Check the location of your software using this command **which <software i.e python,bash,node,perl,R,Julia,C,C++>** on your terminal. Having found the path to either the compiler or interpreter then check the shebang (e.g #!/usr/local/bin/bash) of the individual script and edit it to suit your local machine.
