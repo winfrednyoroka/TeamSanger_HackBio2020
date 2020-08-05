@@ -1,8 +1,6 @@
-name <- "Oguntuase Ayodele"
-email <- "ayodeleemmanuel806gmail.com"
-language <- "Rscript"
-biostack <- "Genomics"
-username <- "@Ayodele"
-print(paste("name:", name, "email:", email, "language:", language, "biostack:", biostack, "username:", username, Sep="ln"))
+#!/usr/local/bin/Rscript
+# This Rscript prints out my details
 
-chmod+x"script_Ayodele.*
+my_details <-c("Oguntuase Ayodele","ayodeleemmanuel806gmail.com","R","Genomics","@Ayodele")
+
+  cat(paste(my_details, collapse = ','))
