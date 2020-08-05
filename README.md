@@ -29,7 +29,7 @@ Below here just state the software you used to generate the script. If there are
 | Akurut Eva    |Julia       |  Julia installation      |
 | Olayemi Rotimi| Python 3.8
 |  Ibiyinka Daramola        |  Python 3.8             | 
-
+  Khatendra Reang        Bash
 # Workflow
 ![Workflow](https://github.com/winfrednyoroka/TeamSanger_HackBio2020/blob/master/Flowchart.png)
 
