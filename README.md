@@ -43,7 +43,7 @@ To execute the scripts from this repo we are providing a general script that con
 
 There is need to install all the softwares listed above  for the scripts to be executed. 
 In case you bump into an error of **bad interpreter** when executing the scripts. Check the location of your software using this command 
-```R
+```python
 which <software i.e python,bash,node,perl,R,Julia,C,C++>
 
 # For example
