@@ -10,7 +10,6 @@ For instance: I used **Python 3.7** to generate my script_wgatua.py. So to execu
 Please kindly add your names here to have a comprehensive list of the Sanger Team.
 
 1. Winfred Gatua
-<<<<<<< Updated upstream
 2. Akurut Eva
 3. Umar Ahmad
 4. Khatendra Reang
@@ -20,7 +19,6 @@ Please kindly add your names here to have a comprehensive list of the Sanger Tea
 8. Ibiyinka Daramola
 9. Adepoju Ayodeji
 10. Lawrence Edemhanria
->>>>>>> Stashed changes
 
 ## Programming language
 
