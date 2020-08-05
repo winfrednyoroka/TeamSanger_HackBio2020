@@ -5,6 +5,6 @@ name= "olayemi_rotimi"
 email="olayemirotimi3@gmail.com"
 language="python"
 biostack="genomics"
-slack="olayemi"
+slack="@olayemi"
 print("name: {}\nemail: {}\nlanguage: {}\nbiostack: {}\nslackname: {}" . 
       format(name , email , language , biostack ,slack))
