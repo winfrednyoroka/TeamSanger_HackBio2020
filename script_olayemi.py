@@ -6,5 +6,4 @@ email="olayemirotimi3@gmail.com"
 language="python"
 biostack="genomics"
 slack="@olayemi"
-print("name: {}\nemail: {}\nlanguage: {}\nbiostack: {}\nslackname: {}" . 
-      format(name , email , language , biostack ,slack))
+print("olayemi rotimi, olayemirotimi3@gmail.com, python, genomics, @olayemi")
