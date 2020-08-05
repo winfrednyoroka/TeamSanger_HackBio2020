@@ -6,4 +6,6 @@ language <- "R"
 biostack <- "Genomics"
 slack <- "@Maruf"
 
-paste(name, email, language, biostack, slack, sep = ", ")
+my_details <- c(name, email, language, biostack, slack)
+  
+cat(paste(my_details, collapse = ','))
