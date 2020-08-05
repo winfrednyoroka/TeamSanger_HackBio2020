@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #A written script for priting my personal profile for HackBio Internship 2020
 
