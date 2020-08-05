@@ -1,4 +1,4 @@
-#!/usr/local/bin/env julia
+#!/usr/local/bin/julia
 
 # This script prints out  my name,email,language,Biostack, and slackusername using julia language 
 
