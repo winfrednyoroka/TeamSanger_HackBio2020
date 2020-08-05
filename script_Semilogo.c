@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main (){
 	char *name = "Semilogo Sonaike";
 	char *email = "semilogosonaike@gmail.com";
