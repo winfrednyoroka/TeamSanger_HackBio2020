@@ -4,17 +4,7 @@
 This is a repository for the task assigned to team-sanger during the 5 weeks internship programme organised by HackBio in the year 2020. It is more of a collaborative project assignments. Each team member will fork the repository and make the neccesary changes applicable to the assigned task. 
 This Repo belongs to team Sanger members to collaborate on the assignments
 This README.md contains information about the names of the members of this team Sanger. All members are required to add their names, as well add informaton about the **softwares** they used and if there are dependencies needed state them clearly.
-For instance: I used **Python 3.7** to generate my script_wgatua.py. So to execute the script successfully you need to install python 3.7 in your computer.
-
-# Members Names
-All members of team Sanger are required to add their names here
-1. Winfred Gatua
-2. Khatendra Reang
-3. Maruf Ahmed
-4. Akurut Eva
-5. Adepoju Ayodeji
-
-This is a repository for the task assigned to team-sanger during the 5 weeks internship programme orgnised by HackBio in the year 2020. It is more of a collaborative project assignments that involved exploring softwares used in bioinformatics. Each team member need to fork the repository and make the neccesary changes applicable to the assigned task (creating his/her scripts). Information about each member and their scripts that could be used to generate individual profile is also included here. Every member is required to add their names, the software they used in creating the scrips as well as dependencies (if any - should be stated clearly). 
+For instance: I used **Python 3.7** to generate my script_wgatua.py. So to execute the script successfully you need to install python 3.7 in your computer. 
 
 ## Team Members Names
 Please kindly add your names here to have a comprehensive list of the Sanger Team.
@@ -38,7 +28,6 @@ Use the table below to key in your name and programming language used to generat
 |  Maruf Ahmed  |      R     |       R      |
 | Akurut Eva    |Julia       |  Julia installation  |
 |Adepoju Ayodeji| Python 3.7 | Python 3.7  
-         |            |               | 
 |  Maruf Ahmed  |      Perl     |       Perl installlation (v5.30.3)(https://www.perl.org/get.html)      |
 |  Maruf Ahmed  |      PHP     |       PHP (v7.3.11)(https://www.geeksforgeeks.org/how-to-execute-php-code-using-command-line/)      |
 |  Maruf Ahmed  |      R     |       R (v3.6.3)(https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)      |
@@ -59,6 +48,7 @@ To execute the scripts from this repository, a general script is provided that c
 You need to install all the softwares listed above for the scripts to be executed. 
 In case you bump into an error of **bad interpreter** when executing the scripts. Check the location of your software using this the example command as shown below:
 
+```
 # For example
 which R
 /usr/local/bin/R
@@ -77,4 +67,5 @@ which php
 
 # Remember your location may vary ! Whatever the location is just add it to the title.
 ```
+
 On your terminal. Having found the path to either the compiler or interpreter then check the shebang (e.g #!/usr/local/bin/bash) of the individual script and edit it to suit your local machine.
