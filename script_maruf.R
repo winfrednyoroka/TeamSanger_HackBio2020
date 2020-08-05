@@ -1,9 +1,11 @@
+#!/usr/local/bin/Rscript
+
 name <- "Maruf Ahmed Bhuiyan"
 email <- "dr.marufahmed89@gmail.com"
-biostack <- "Genomics"
-username <- "@Maruf"
 language <- "R"
+biostack <- "Genomics"
+slack <- "@Maruf"
 
-cat(paste("Name:", name,"Email:", email, 
-          "Biostack:", biostack, "Username:", username,
-          "Language:", language, sep="\n"))
+my_details <- c(name, email, language, biostack, slack)
+  
+cat(paste(my_details, collapse = ','))
