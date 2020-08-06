@@ -48,6 +48,7 @@ Use the table below to key in your name and programming language used to generat
 | Rajesh Chavhan | Python3 | Python 3.8(https://www.python.org/downloads/release/python-385/)
 |Shodunke Oluwasefunmi |Ruby |
 |Semilogo Sonaike|PowerShell Script|powershell https://www.howtogeek.com/267858/how-to-install-microsoft-powershell-on-linux-or-os-x/|
+|Semilogo Sonaike| Python3 | Python 3.8(https://www.python.org/downloads/release/python-385/)
 
 # Workflow
 ![Workflow](https://github.com/winfrednyoroka/TeamSanger_HackBio2020/blob/master/Flowchart.png)
