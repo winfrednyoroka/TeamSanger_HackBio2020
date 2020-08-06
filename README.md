@@ -81,3 +81,5 @@ which php
 ```
 
 On your terminal. Having found the path to either the compiler or interpreter then check the shebang (e.g #!/usr/local/bin/bash) of the individual script and edit it to suit your local machine.
+
+The links provided under languages can be a quick way for you to download various softwares for you.
