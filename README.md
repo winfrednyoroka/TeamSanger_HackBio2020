@@ -45,6 +45,7 @@ Use the table below to key in your name and programming language used to generat
 |Olayemi Olaoluwa Samuel | PHP  
 |Semilogo Sonaike|C|gcc.exe (tdm64-1) 9.2.0 https://jmeubank.github.io/tdm-gcc/articles/2020-03/9.2.0-release|
 | Rajesh Chavhan | Python3 | Python 3.8(https://www.python.org/downloads/release/python-385/)
+|Shodunke Oluwasefunmi |Ruby |
 # Workflow
 ![Workflow](https://github.com/winfrednyoroka/TeamSanger_HackBio2020/blob/master/Flowchart.png)
 
