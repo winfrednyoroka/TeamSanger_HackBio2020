@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python
 #my personal details
 name="Rajesh_chavhan"
 email="rajshrichavhan143@gmail.com"
