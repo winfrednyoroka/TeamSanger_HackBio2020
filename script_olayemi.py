@@ -1,4 +1,4 @@
-#!bin/python3
+#!/usr/bin/python3
 #this is a python file to print my details
 
 name= "Olayemi Rotimi"
