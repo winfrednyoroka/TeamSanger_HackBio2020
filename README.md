@@ -46,6 +46,8 @@ Use the table below to key in your name and programming language used to generat
 |Semilogo Sonaike|C|gcc.exe (tdm64-1) 9.2.0 https://jmeubank.github.io/tdm-gcc/articles/2020-03/9.2.0-release|
 | Rajesh Chavhan | Python3 | Python 3.8(https://www.python.org/downloads/release/python-385/)
 |Shodunke Oluwasefunmi |Ruby |
+|Semilogo Sonaike|PowerShell Script|powershell https://www.howtogeek.com/267858/how-to-install-microsoft-powershell-on-linux-or-os-x/|
+
 # Workflow
 ![Workflow](https://github.com/winfrednyoroka/TeamSanger_HackBio2020/blob/master/Flowchart.png)
 
