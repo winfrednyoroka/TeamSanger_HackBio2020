@@ -7,4 +7,4 @@ def personal_details ():
 	language = "python"
 	biostack = "Genomics"
 	slack = "@Ledemhanria"
-	print ("{}, {}, {}, {}, {}".format(name,email,language,biostack,slack))
+	print ("{}, {}, {}, {}, {}".format(name, email, language, biostack, slack))
