@@ -27,7 +27,7 @@ chmod +x script*
 
 for i in $(ls script*)
 do
-	./$i | awk -F ',' '{print $1,$2,$3,$4,$5}' >> Team_Sanger.csv
+	./$i | awk -F ',' '{OFS="\t";print $1,$2,$3,$4,$5}' >> Team_Sanger.csv
 done
 
 
